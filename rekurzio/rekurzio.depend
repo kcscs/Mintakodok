@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550137694 source:g:\_c++ órai\rekurzio\main.cpp
+	<iostream>
+	<windows.h>
+
